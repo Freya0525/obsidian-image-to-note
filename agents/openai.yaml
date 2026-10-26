@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Image to Note"
+  short_description: "将图片或文字转换为保留布局的 Obsidian 笔记"
+  default_prompt: "把提供的图片或文字转换成 Obsidian 笔记，尽量保留原有布局、样式和层级，并保存到指定目录。"
